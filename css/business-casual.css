@@ -232,7 +232,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #b4d59a !important;
 }
 
 .btn {
@@ -240,8 +240,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #b4d59a;
+  border-color: #b4d59a;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
