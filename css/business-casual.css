@@ -99,7 +99,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #b4d59a;
   }
 }
 
@@ -209,7 +209,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #e6a756;
+  color: #b4d59a;
 }
 
 @media (min-width: 992px) {
@@ -228,7 +228,7 @@ p {
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #b4d59a !important;
 }
 
 .bg-primary {
