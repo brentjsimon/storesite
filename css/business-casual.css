@@ -25,7 +25,7 @@ p {
 }
 
 .text-faded {
-  color: rgba(207, 233, 220, 0.3);
+  color: rgba(255, 255, 231, 0.3);
 }
 
 .site-heading {
@@ -70,7 +70,7 @@ p {
 }
 
 .bg-faded {
-  background-color: rgba(207, 233, 220, 0.85);
+  background-color: rgba(255, 255, 231, 0.85);
 }
 
 #mainNav {
@@ -83,7 +83,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  color: rgba(207, 233, 220, 0.7);
+  color: rgba(255, 255, 231, 0.7);
   font-weight: 800;
 }
 
@@ -96,7 +96,7 @@ p {
     font-size: 0.9rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: rgba(207, 233, 220, 0.4);
+    color: rgba(255, 255, 231, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
     color: #b4d59a;
@@ -151,7 +151,7 @@ p {
   position: relative;
   padding: 3rem;
   margin: 0.5rem;
-  background-color: rgba(207, 233, 220, 0.85);
+  background-color: rgba(255, 255, 231, 0.85);
 }
 
 .cta .cta-inner:before {
@@ -162,7 +162,7 @@ p {
   bottom: -0.5rem;
   left: -0.5rem;
   right: -0.5rem;
-  border: 0.25rem solid rgba(207, 233, 220, 0.85);
+  border: 0.25rem solid rgba(255, 255, 231, 0.85);
 }
 
 @media (min-width: 992px) {
