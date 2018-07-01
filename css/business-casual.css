@@ -162,7 +162,7 @@ p {
   bottom: -0.5rem;
   left: -0.5rem;
   right: -0.5rem;
-  border: 0.25rem solid rgba(213, 156, 154, 0.85);
+  border: 0.25rem solid rgba(180, 213, 154, 0.85);
 }
 
 @media (min-width: 992px) {
